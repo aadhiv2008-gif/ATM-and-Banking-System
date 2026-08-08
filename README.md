@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040002
+# Name: Aadhithya.V
+# Date:28-07-2026
 
 
 # AIM:
